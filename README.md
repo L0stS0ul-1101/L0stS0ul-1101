@@ -6,7 +6,3 @@
 - Pronouns: He/Him
 - Fun fact: I have ADHD and possibly autism, and I'm good with art and animating. 
 - Timezone: EST/EDT
-<!---
-L0stS0ul-1101/L0stS0ul-1101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
